@@ -34,7 +34,7 @@ We collaborate with enterprises, training partners, and institutions to deliver 
   </a>
   <a href="https://github.com/Leonidus786">
     <img height="180" align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidus786&layout=compact&langs_count=10&hide_border=true&theme=transparent&custom_title=Top%20Languages" />
+      src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) />
   </a>
 </p>
 

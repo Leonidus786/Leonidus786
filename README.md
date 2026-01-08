@@ -46,18 +46,11 @@ CognitiaX AI helps **individuals, enterprises, and institutions** upskill throug
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonidus786&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonidus786&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonidus786&theme=dark&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Leonidus786&theme=github-dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidus786&layout=compact&theme=dark&hide_border=true" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidus786&layout=compact&theme=github_dark&hide_border=true)
 ---
 
 ## 🌐 Connect With Me

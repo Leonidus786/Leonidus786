@@ -95,10 +95,30 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 
 ---
 
-# 📈 Activity Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonidus786&theme=react-dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonidus786&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph (Moving Purple Dot + Green Band)
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonidus786&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+
 </p>
 
 ---
@@ -106,7 +126,7 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Leonidus786&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=Leonidus786&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -138,3 +158,16 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 <img src="https://komarev.com/ghpvc/?username=Leonidus786&color=brightgreen" />
 
 </p>
+
+---
+
+# 🚀 CognitiaX AI
+
+<p align="center">
+
+AI-native Learning Operating System for  
+Thinking • Decision Intelligence • Cognitive Infrastructure
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006100,100:ebbc35&height=120&section=footer"/>

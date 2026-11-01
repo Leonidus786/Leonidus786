@@ -83,35 +83,38 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Leonidus786&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidus786&layout=compact&theme=radical" />
-
+  <img src="https://ghstats.dev/api/card?username=Leonidus786&theme=dark&bg=0B0F0A&text=FFFFFF&title_color=EBBC35&icon_color=EBBC35&border_color=006100" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=Leonidus786&theme=dark&layout=compact&bg=0B0F0A&text=FFFFFF&title_color=EBBC35&border_color=006100" alt="Top Languages" />
+</p>
+
+---
+
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonidus786&theme=radical&hide_border=true"/>
-
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
-# 📈 Activity Graph (Moving Purple Dot + Green Band)
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonidus786&theme=react-dark"/>
+  <img src="https://ghstats.dev/api/sparkline?username=Leonidus786&days=90&width=900&height=160&line_color=ebbc35&fill_color=006100" alt="GitHub Activity" />
 </p>
 
----
 
 # 🐍 Contribution Snake Animation
 
@@ -123,19 +126,12 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Leonidus786&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/abhishek-upadhayay786/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -143,7 +139,7 @@ Building AI-powered systems, data platforms, and intelligent learning products.
 <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:beingabhishek80@email.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
